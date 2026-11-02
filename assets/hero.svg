@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="t d">
+<title id="t">Abuzar — AI and Machine Learning Enthusiast</title><desc id="d">Animated dark navy and electric blue introduction banner.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#070b16"/><stop offset=".55" stop-color="#0b1d3a"/><stop offset="1" stop-color="#111126"/></linearGradient>
+ <linearGradient id="line"><stop stop-color="#247bff"/><stop offset=".55" stop-color="#00d4ff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#247bff" stop-opacity=".42"/><stop offset="1" stop-color="#247bff" stop-opacity="0"/></radialGradient>
+ <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#8bbcff" opacity=".18"/></pattern>
+ <clipPath id="portraitClip"><rect x="855" y="78" width="260" height="350" rx="28"/></clipPath>
+</defs>
+<rect width="1200" height="520" rx="30" fill="url(#bg)"/><rect width="1200" height="520" rx="30" fill="url(#dots)"/>
+<circle cx="1000" cy="240" r="330" fill="url(#glow)"/>
+<path d="M0 470 Q360 390 650 470 T1200 430" fill="none" stroke="url(#line)" stroke-width="2" opacity=".7"/>
+<rect x="28" y="28" width="1144" height="464" rx="24" fill="none" stroke="url(#line)" opacity=".65"/>
+<g font-family="Arial,Helvetica,sans-serif">
+ <text x="78" y="104" fill="#8ec5ff" font-size="18" letter-spacing="5">HELLO, WORLD  /  GITHUB PROFILE</text>
+ <text x="74" y="210" fill="#f5f8ff" font-size="86" font-weight="800" letter-spacing="-3">I'M ABUZAR</text>
+ <rect x="78" y="238" width="84" height="5" rx="2.5" fill="#247bff"><animate attributeName="width" values="84;210;84" dur="4s" repeatCount="indefinite"/></rect>
+ <text x="78" y="294" fill="#40c5ff" font-size="29" font-weight="700">AI &amp; MACHINE LEARNING ENTHUSIAST</text>
+ <text x="78" y="344" fill="#d6e4ff" font-size="21">Learning by building practical projects.</text>
+ <text x="78" y="391" fill="#9db4d7" font-size="18">BS Computer Science  •  Corvit AI learner</text>
+ <text x="78" y="434" fill="#9db4d7" font-size="17">Muzaffarabad, Pakistan</text>
+ <g fill="#8ec5ff" font-size="15" letter-spacing="2"><text x="78" y="468">CURIOUS  •  CREATIVE  •  ALWAYS LEARNING</text></g>
+</g>
+<rect x="855" y="78" width="260" height="350" rx="28" fill="#101e38" stroke="#247bff" stroke-width="2"/>
+<image x="855" y="78" width="260" height="350" preserveAspectRatio="xMidYMid meet" clip-path="url(#portraitClip)" xlink:href="../id.png"/>
+<text x="985" y="455" text-anchor="middle" fill="#b9d8ff" font-family="Arial" font-size="14">PROFILE PORTRAIT</text>
+<g fill="none" stroke="#ff354f" stroke-width="2" opacity=".8"><path d="M820 90h-22v22M1150 90h22v22M820 416h-22v-22M1150 416h22v-22"/></g>
+</svg>

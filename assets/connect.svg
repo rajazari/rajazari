@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="t">
+<title id="t">Connect with Abuzar</title><defs><linearGradient id="bg"><stop stop-color="#070b16"/><stop offset="1" stop-color="#10264a"/></linearGradient><linearGradient id="line"><stop stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient></defs>
+<rect width="1200" height="430" rx="28" fill="url(#bg)"/><rect x="18" y="18" width="1164" height="394" rx="20" fill="none" stroke="url(#line)"/>
+<image x="55" y="55" width="390" height="320" preserveAspectRatio="xMidYMid meet" xlink:href="../right_pointing.png"/>
+<g font-family="Arial"><text x="500" y="100" fill="#45baff" font-size="17" letter-spacing="4">04 / LET'S CONNECT</text><text x="500" y="154" fill="#fff" font-size="38" font-weight="bold">Find me online.</text>
+<rect x="500" y="190" width="620" height="66" rx="15" fill="#102d55" stroke="#247bff"/><text x="530" y="230" fill="#fff" font-size="22" font-weight="bold">GitHub</text><text x="1080" y="230" fill="#70caff" font-size="18" text-anchor="end">@rajazari</text>
+<rect x="500" y="272" width="620" height="66" rx="15" fill="#102d55" stroke="#247bff"/><text x="530" y="312" fill="#fff" font-size="22" font-weight="bold">Instagram</text><text x="1080" y="312" fill="#70caff" font-size="18" text-anchor="end">@raja_abuzar_</text>
+<text x="500" y="378" fill="#9cb4d7" font-size="16">Email and social links are clickable in the README below.</text></g>
+<path d="M450 215h35m-12-12 12 12-12 12" fill="none" stroke="#ff354f" stroke-width="3"><animateTransform attributeName="transform" type="translate" values="0 0;8 0;0 0" dur="1.5s" repeatCount="indefinite"/></path>
+</svg>
